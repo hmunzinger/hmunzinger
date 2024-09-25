@@ -1,4 +1,4 @@
-[![MasterHead](https://discdown.org/rprogramming/images/header.png)]
+![MasterHead](https://discdown.org/rprogramming/images/header.png)
 <h1 align="center">Hi 👋, I'm Heinz Munzinger</h1>
 <h3 align="center">A passionate Data Analyst using the R programming language</h3>
 <img align="right" alt="Coding" width="400" src="https://www.stansys.in/wp-content/uploads/2023/10/r.jpg")
