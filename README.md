@@ -3,11 +3,11 @@
 <h3 align="center">A passionate Data Analyst using the R programming language</h3>
 <img align="right" alt="Coding" width="400" src="https://www.stansys.in/wp-content/uploads/2023/10/r.jpg")
 
-- 🔭 I’m currently working on **Magnificent 7 portfolio analysis**
+- 🔭 I’m currently working on **PhD dissertation**
 
 - 🌱 I’m currently learning **GARCH models in R**
 
-- 👯 I’m looking to collaborate on **Political Economy between EU and Vietnam**
+- 👯 I’m looking to collaborate on **the Political Economy between EU and Vietnam**
 
 - 💬 Ask me about **RStudio**
 
