@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **RStudio**
 
-- 📫 How to reach me **heinz.munzinger@tuni.fi**
+- 📫 How to reach me **heinz.munzinger.06@aberdeen.ac.uk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
